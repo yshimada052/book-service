@@ -76,7 +76,7 @@
 						<server>maven</server>
 						<!-- what path to deploy to tomcat, then would be 
 							available at your.aws.ip:8080/example  -->
-						<path>/punchcard</path>
+						<path>/book-service</path>
 					</configuration>
 				</plugin>
 		</plugins>
