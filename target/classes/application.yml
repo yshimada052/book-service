@@ -1,0 +1,17 @@
+server:
+ port: 8080
+# set the application name  
+spring:
+ application:
+  name: artist-api  
+ datasource:
+  url: jdbc:mysql://http://3.14.94.246/:3306/bookstore
+  username: root
+  password: root
+#  jpa:
+#   hibernate:
+#    ddl-auto: update
+#     
+#spring.application.datasource.url=jdbc:mysql://localhost:3306/chinook
+#spring.application.datasource.username=root
+#spring.application.datasource.password=password
